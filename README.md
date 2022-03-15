@@ -9,6 +9,9 @@ Rails 7.0.2.3
 
 # Steps
 
+- Add pages controller <br>
+  $ rails g controller pages home about
+
 * System dependencies
 
 * Configuration
